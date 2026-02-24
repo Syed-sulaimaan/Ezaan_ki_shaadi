@@ -13,7 +13,7 @@ export default function Home() {
             
           </a>
         {/* </div> */}
-        <a className="align-middle text-cyan-500 text-3xl "><strong> Ezaan Ki Shaadi Jaldi Karo </strong></a>
+        <a className="align-middle text-cyan-500 text-3xl "><strong> Aqueeb Ki Shaadi Jaldi Karo </strong></a>
 
       <div className="flex fixed top-1/3 place-items-center">
         <Image
